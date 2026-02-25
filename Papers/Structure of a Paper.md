@@ -5,7 +5,7 @@
 	- Discussion
 	- Conclusion
 - Be creative!
-- [[Tell a Story]]:
+- [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Tell a Story]]:
 	- ![[Pasted image 20260224115720.png]]
 	- ![[Pasted image 20260224115912.png]]
 - **Introduction:** ^2684e7
@@ -53,12 +53,12 @@
 	- Summarise the data (big picture), and report trends
 - **Discussion:**
 	- The purpose of the discussion:
-		- Answer the question posed in the [[Structure of a Paper#^2684e7|Introduction]]
+		- Answer the question posed in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^2684e7|Introduction]]
 		- Support your conclusions with details
 		- Defend your conclusion
 		- Highlight the broader implications of the work
 	- Things to Avoid in the:
-		- Do not simply repeat what is in the [[Structure of a Paper#^ce0a5c|Results]] section
+		- Do not simply repeat what is in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^ce0a5c|Results]] section
 		- Do not try to explain every minor flaw
 		- Do not attempt to explain away every unexpected result (you can make another paper if it's necessary)
 		- Do not exaggerate or make extravagant claims

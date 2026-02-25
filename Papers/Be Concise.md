@@ -20,4 +20,4 @@ Omit needless words:
 - Don't use 'Believe'
 	- There is no 'belief' in science, only proven facts
 	- Say that you think, that you're convinces that, or something similar.
-- In the [[Writing Process#^69ec57|revision]], replace long words to short ones to make the sentence more easy to understand.
+- In the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Writing Process#^69ec57|revision]], replace long words to short ones to make the sentence more easy to understand.

@@ -12,7 +12,7 @@ Plan your research as a series of short, complete projects. Then you could publi
 		3. What 'gap' does it fill in the literature?
 		4. What impact or outlook does your work have in the field and why should the scientific community should care about your work?
 	-  Discuss with colleagues
-	-  Write an outline of the paper — [[Tell a Story|make a story]]
+	-  Write an outline of the paper — [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Tell a Story|make a story]]
 	-  Prepare figures and tables
 2. Drafting:
 	- Write quickly
@@ -33,7 +33,7 @@ Plan your research as a series of short, complete projects. Then you could publi
 	- Read the paper once all the way through
 	- Reread all the way through out-loud or backwards (to check writing errors)
 	- Look for:
-		- [[Active vs Passive Voice#^f7e171|Passive voice]]
+		- [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Active vs Passive Voice#^f7e171|Passive voice]]
 		- Inconsistent verbs
 		- Grammar
 		- Typos

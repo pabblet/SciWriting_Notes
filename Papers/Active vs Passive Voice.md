@@ -2,4 +2,4 @@
 	- When the subject receives the action, the verb is in passive voice (avoid passive voice the majority of times) 
 - Passive voice: ^f7e171
 	- The passive voice helps you to compose a sentence where the action is important, but who is doing it don't
-		- This will likely be the case in the [[Structure of a Paper#^7c3be7|Methods]] sections or in a paragraph to keep the same subject
+		- This will likely be the case in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^7c3be7|Methods]] sections or in a paragraph to keep the same subject
