@@ -1,0 +1,96 @@
+- IMRaD format
+	- Introduction
+	- Methods
+	- Results
+	- Discussion
+	- Conclusion
+- Be creative!
+- [[Tell a Story]]:
+	- ![[Pasted image 20260224115720.png]]
+	- ![[Pasted image 20260224115912.png]]
+- **Introduction:** ^2684e7
+	1. Establishing a territory
+		- Established the field of work and importance
+		- Generalisations
+		- Refer to items of previous research
+		- Explicitly narrow the focus (Example: In particular...)
+		- Use **emphatic** words
+	2. Establishing a niche
+		- Refers to existing research to indicate gaps
+	3. Occupying the niche
+		- Introduces the new research
+		- State the purpose of the research
+		- Describe the research done by the authors
+		- Mention the principal findings
+		- **No need for an outline!**
+	- In writing the literature review, summarise rather than list every possible reference and example
+		- Cite latest review or paper and say 'and refs. therein'
+	- Structure:
+		- Paragraph 1: What do we know?
+		- Paragraph 2: What we don't know
+		- Paragraph 3: What we did and the result
+	- Think about it when you begin a project, not when you complete it
+		-  The reasons that you found the project interesting enough to work on provide **half the material** needed for the introduction
+		- The remaining is a summary of the key results
+- **Methods:** ^7c3be7
+	- Give a clear overview of what was done
+	- Give enough information to replicate the study (like a recipe)
+	- Be complete, but minimise complexity:
+		- Break into smaller sections with subheads
+		- Move technical details in Appendix
+		- Give a reference for commonly used methods
+		- Don't give details about things everybody knows (such as data reduction that always is used)
+		- Report methods in past tense (we measured...)
+		- Use present tense to describe how data are presented in the paper (data are summarised as means +- std)
+- **Results:** ^ce0a5c
+	- Present facts
+		- The output of the experiments, model, or computation
+		- No opinion or interpretation
+		- Give error bars
+	- Most data belong in figures and tables
+		- These should have self-contained captions and being referenced in the text
+	- Report results pertinent to the main question asked
+	- Summarise the data (big picture), and report trends
+- **Discussion:**
+	- The purpose of the discussion:
+		- Answer the question posed in the [[Structure of a Paper#^2684e7|Introduction]]
+		- Support your conclusions with details
+		- Defend your conclusion
+		- Highlight the broader implications of the work
+	- Things to Avoid in the:
+		- Do not simply repeat what is in the [[Structure of a Paper#^ce0a5c|Results]] section
+		- Do not try to explain every minor flaw
+		- Do not attempt to explain away every unexpected result (you can make another paper if it's necessary)
+		- Do not exaggerate or make extravagant claims
+- **Conclusion:**
+	- We are researchers... not finders
+	-  New questions that appeared from this work!
+	- What is next for you or others working in the field?
+	- What is the take home message?
+- **Abstract:**
+	- Overview of the main story, there should be an element from every section
+	- Give highlights from each section of the paper
+	- Limited length (100 - 300 words, typically)
+	- Stands on its own, people should fully understand what the work is
+	- Abstract and paper are independent. Redefine acronyms on the paper even if they are in the abstract.
+- **Title:**
+	- Describes the paper's content clearly and precisely including keywords
+	- Is the advertisement for the article
+	- Does not uses abbreviations and jargon
+	- Search engines/indexing databases depend on the accuracy of the title — since they use the keywords to identify relevant articles 
+	- For a paper, it should never be a question
+	- Options for a Title:
+		- Summarise the issue addressed in the paper
+		- Use words that surprise or encourage curiosity
+		- Use words or phrases that have double or clever meanings
+		- Take a common phrase and put a spin on it (i.e. When Good Writers Go Bad)
+	- Be aware of Alliterations
+		- Using words that start with the same letter or sound, or rhtme in other ways (prepare, promote, ...)
+	- Ideally with the main conclusion in it
+
+- Summary:
+	- Build up your paper little by little, take breaks if needed
+	- Set realistic goals to make continuous small steps
+	- Ask for help on what you find hard
+	- Complain to your friends
+	- Decide when good is good enough and submit!

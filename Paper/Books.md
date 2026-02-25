@@ -1,0 +1,4 @@
+- The Craft of Scientific Writing 
+- The Craft of Scientific Presentations
+- The Craft of Editing
+- Scientific Writing 2.0
