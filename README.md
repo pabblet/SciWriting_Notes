@@ -1,7 +1,7 @@
-# ESO — Scientific Writing and Communicating your Science Workshop
+# ESO — Scientific Writing and Communicating your Science Workshop Notes
 
-**Dates:** February 24-25, 2026
-**Location:** ESO Vitacura, Chile
+**Dates:** February 24-25, 2026  
+**Location:** ESO Vitacura, Chile  
 *Notes taken in Obsidian*
 
 ---
@@ -11,7 +11,7 @@ There is no science without communication and no successful scientists without g
 
 This course is an introduction about how to get your message across in the various supports you need to use as a scientist, with an emphasis on how to write your scientific papers and proposals, and how to give a talk. Participants will learn how to shape their papers, how to write in a concise and lively way, what are the recipes to follow and the pitfalls to avoid for an excellent proposal, and what are the key rules for giving a stunning talk and presenting a poster.
 
-##  Note Index
+##  Notes Index
 ### Day 1: February 24
 * Papers
 
