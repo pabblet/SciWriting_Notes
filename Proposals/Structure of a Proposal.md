@@ -1,0 +1,19 @@
+- **Title:**
+	- Get a catchy title
+		- Likely done at the end and should be well thought
+		- Describes content in an honest, but attractive way
+		- To the point — reviewer should understand what the proposal is about
+	- Improving the title (example)
+		- Before: 'Unveiling the 50 Myr-old two-Neptune system TOI-942 with JWST's transmission spectroscopy'
+		- After: 'A comparative study of disequilibrium chemistry in the atmospheres of very young Neptunes'
+- **Abstract:**
+	- Unlike for paper, write the abstract of your proposal first
+	- This ensure you have a good idea
+	- The abstract **HAS** to contain the punch line
+	![[Pasted image 20260228224134.png]]
+- **Core of the proposal:**
+	- Put your science into context, so that its relevance for the broader picture, its potencial impact, and its timelines can be appreciated by referees
+	- Be specific about the expected outcome of the project
+		- What is the <u>quantitative</u> information about the target that should be obtained?
+		- Which <u>physical processes</u> will this information constrain, and how?
+		- Will the data be compared to <u>theoretical models</u>? Do these model already exist? If not, when and how will they be developed?

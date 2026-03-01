@@ -1,0 +1,5 @@
+- The Craft of Scientific Writing 
+- The Craft of Scientific Presentations
+- The Craft of Editing
+- Scientific Writing 2.0
+- Marketing for Scientists: How to shine in tough times

@@ -1,0 +1,7 @@
+- Try different plots to know which one works better
+- Create set of plots, one for your paper, and another one for the talk (easier to read increase label sizes, black background is better for talks)
+- Do not blindly trust the defaults
+	- You can make it much more impressive and easier to understand
+	- Beware also of tick and ticklabel defaults, they are often too small
+- plt.xkcd() sketch style
+	- Using a sketch style conveys to the viewer that the data is approximate, and that it is the higher-level concepts rather than low-level details that are important

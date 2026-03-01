@@ -1,0 +1,4 @@
+Major proposals should contain 3 kind of figures (Quote from 'Marketing for Scientists' book)
+1. Beautiful butterfly Figure: Many proposals start with one figure whose purpose is just to grab the reader's attention — A pretty picture. They also make good introductory slides for talks
+2. Family Portrait Figure: A figure that sums up the contributions of everyone else in the field, a figure that plots as many people's data or theories on it as possible. You can highlight where your object/sample lies in that plot for a talk	![[Pasted image 20260228232840.png]]
+3. Before/After Figure: Every proposal should have one. Show your readers an example of what they have now and next to it, an example of what they can expect to get if they fund your proposal

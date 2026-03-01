@@ -1,0 +1,12 @@
+- Do not put lot of text
+- Don't finish with 'Thank you' slide
+- Finish with main result and figure (+ name and contact details)
+- Primacy and Recency effects:
+	- People remember best what they heard first and last
+- End your talk with a summary diagram of your conclusions
+- Benjamin Franklin effect:
+	- '_He that has once done you a kindness will be more ready to do you another than he whom you yourself have obliged_.'
+	- More sinister side: if someone does something to harm you, they become more likely to do so again. That is something to avoid
+	- Thus, it is better to keep your presentation on time rather than be asked to end it (don’t make it too short neither)
+- Memorise the opening, transitions, and closing
+	- Don't memorise the rest, but practice, expressing your key ideas aloud, in complete sentences

@@ -1,0 +1,21 @@
+- Question yourself
+	- Why do you give this talk?
+	- What is your message?
+	- What should they remember?
+
+- Make a story on paper
+
+- Slides comes after you have the story to tell
+	- Choose a design
+	- Decide on fonts to use (max. 2)
+		- Ensure that all text is easy to read:
+			- Use 18-36 pts font to be seen in the back of the presentation room
+			- Use smaller fonts for citations dan footnotes
+			- On a slide, it is harder to read <u>underlined words</u> or words in ALL CAPS
+			- If you want to emphasise a word, use **bold letters**, *italics* or use colour!
+			- It is not necessary to put your name or the title of the presentation in every slide nor enumerate them all
+	- Decide on colour scheme
+		- Create contrast and keep it super simple
+		- Use backgrounds that lack visual content to optimise foreground content
+		- Prefer to use a dark slide background to create contrast
+			- In some cases (small room, bad projector) use a white slide background

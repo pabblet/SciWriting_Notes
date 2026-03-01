@@ -1,0 +1,34 @@
+- The presentation style depends on:
+	- Type of presentation
+		- Lecture?
+		- Invited colloquium?
+		- Short talk?
+		- Public talk?
+	- Audience
+		- Specialists in your field?
+		- Students?
+		- General public?
+		- Native speakers or not?
+- Know the Audience!
+	- One needs to change content, language, and style according to audiences
+	- Effective communication is mind-reading
+		- What are their concerns?
+		- What do they know already?
+		- What do they think they know?
+		- Do they have preconceptions?
+- Positiveness and enthusiasm
+	- At the beginning of your presentation, a smile makes a difference :)
+	- During the talk, be energetic and enthusiast
+	- Authentic passion is one of the secrets of an excellent talk
+- What do people remember?
+	- Words — 7%
+	- Voice Tome — 38%
+	- Body Language — 55%
+- Stage Fright is fine. It's common and it means that you care
+
+
+- [[Before You Start]]
+- [[Starting your Presentation]]
+- [[Designing your Slides]]
+- [[Ending your Presentation]]
+- [[Before your Talk]]

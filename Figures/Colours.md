@@ -1,0 +1,16 @@
+- Colours palettes
+	- Complementary colours — Good for showing **differences** in datasets
+	- Analogous colours — Great for showing **similarities** in datasets
+	- Triad colours — Good for showing **differences** in datasets with more variety than complementary colours
+- When is colour bad?
+	- Too many colours kill the colours
+	- Take care about how color-blind people will see it
+- Generating accessible images
+	- Do not use rainbows. Use a perceptually uniform colour map, such as viridis or cividis
+	- Avoid red. Especially in combination with green
+	- Go grey. Check your figure in greyscale, or by completely desaturating it
+	- Pick a palette. Choose one that works for everyone
+	- Think bigger. Use features such as shapes and line textures to disambiguate colour
+- Websites to generate palettes
+	- https://coolors.co
+	- https://color.adobe.com

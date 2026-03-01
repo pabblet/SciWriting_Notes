@@ -1,0 +1,6 @@
+- Planning words before visual support
+- Trying to cover too much
+- Discussing every aspect
+- Including every detail
+- Not focusing on the audience's needs
+- Assuming you can be smooth and professional without practice

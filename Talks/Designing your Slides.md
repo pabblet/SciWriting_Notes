@@ -1,0 +1,14 @@
+- Bullet points kill the attention :( (soy ese)
+- The brain can only focus on one task at a time. When people read, they do not listen to you
+- Less is more
+- Use animation/slide transitions wisely. They can distract the audience from your message
+- No more than 6 elements per slide
+	- More than 6: we have to group elements
+	- Less than 6: we can differentiate them instantly
+	- If you have too many elements, you can dim them so the audience doesn't read them all, but still knows there are more
+- If your talk is about a car... show the car and only highlight the most important
+- Avoid GIF or running movies
+	- People will distract if you talk while show a GIF
+	- You can show the GIF once, and then show snapshots to explain something
+- Instead of a big table of data you can summarise it with a graph
+	- But use colour, large labels; basically what we learnt in [[Matplotlib Plot Styles]]

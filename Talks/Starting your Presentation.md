@@ -1,0 +1,20 @@
+- Start with something your audience will be interested in!
+- Tell them why they should care
+- Opening: the main impressions you want to make
+	- You know your field
+	- You are possessed of the scientific curiosity
+	- You enjoy doing research
+	- You plan to convey some useful and interesting information
+- Prepare an opening (choose one)
+	- Ask a rhetorical question — 'What is dark matter? And does it even exist?'
+	- Challenge the audience — 'I urge you to acquire the necessary communication skills'
+	- Make a startling statement or show a nice figure — 'To be a good scientist, you need to be a good communicator'
+	- Quote an authority — 'As Richard Feynman said, "I'm smart enough to know that I'm dumb"'
+	- Promise benefits — 'At the end of this presentation, you will have learned several techniques to give a stunning presentation'
+- Tie the loop
+	- Think of your speech as a loop: the ending should return to the beginning
+		- If you open with a provocative question, be sure to answer it in your closing
+		- If you open with a promise to inform, tell them at the end what they learned
+- Don't overestimate your audience
+	- They want you to say what is important in your field
+	- They don't mind hearing things they already understand

@@ -5,9 +5,16 @@
 	- Discussion
 	- Conclusion
 - Be creative!
-- [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Tell a Story]]:
-	- ![[Pasted image 20260224115720.png]]
-	- ![[Pasted image 20260224115912.png]]
+
+- [[Tell a Story]]:
+	![[Pasted image 20260228213527.png]]
+	- Story structure in science: OCAR
+		1. Opening: Define the 'problem' — The large issue
+		2. Challenge: What is your specific question or  hypothesis?
+		3. Action: What do you do to answer the questions?
+		4. Resolution: How does it help solve the problem
+	- We need to use ***we*** or ***I*** (if alone) and use the active voice
+
 - **Introduction:** ^2684e7
 	1. Establishing a territory
 		- Established the field of work and importance
@@ -51,7 +58,7 @@
 		- These should have self-contained captions and being referenced in the text
 	- Report results pertinent to the main question asked
 	- Summarise the data (big picture), and report trends
-- **Discussion:**
+- **Discussion:** ^c0cd57
 	- The purpose of the discussion:
 		- Answer the question posed in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^2684e7|Introduction]]
 		- Support your conclusions with details
@@ -62,9 +69,9 @@
 		- Do not try to explain every minor flaw
 		- Do not attempt to explain away every unexpected result (you can make another paper if it's necessary)
 		- Do not exaggerate or make extravagant claims
-- **Conclusion:**
+- **Conclusion:** ^024333
 	- We are researchers... not finders
-	-  New questions that appeared from this work!
+	- New questions that appeared from this work!
 	- What is next for you or others working in the field?
 	- What is the take home message?
 - **Abstract:**

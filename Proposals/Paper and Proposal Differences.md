@@ -1,0 +1,8 @@
+- Paper:
+	- Can have any number of pages
+	- There are no hard deadlines for submitting
+	- All data at hand. You can write the full story and then summarise it
+- Proposal:
+	- Limited number of pages
+	- HARD DEADLINES for submitting
+	- Often, anonymised

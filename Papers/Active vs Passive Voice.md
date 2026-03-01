@@ -1,5 +1,11 @@
-- Active voice:
-	- When the subject receives the action, the verb is in passive voice (avoid passive voice the majority of times) 
+- When the subject of a sentence does the action, the verb is in active voice.
+	- i.e. 'The astronomer counted the stars'
+- When the subject receives the action, the verb is in passive voice.
+	- i.e. 'The stars were counted by the astronomer'
+- Favour the active voice!
+	- Using active voice almost always improves your writing
+	- This reflect the way we speak to each other everyday, so it's easier to follow
+	- Active sentences also use fewer words
 - Passive voice: ^f7e171
 	- The passive voice helps you to compose a sentence where the action is important, but who is doing it don't
-		- This will likely be the case in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^7c3be7|Methods]] sections or in a paragraph to keep the same subject
+	- This will likely be the case in the [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Structure of a Paper#^7c3be7|Methods]] section or in a paragraph to keep the same subject
