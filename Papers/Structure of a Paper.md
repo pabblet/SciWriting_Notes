@@ -5,7 +5,7 @@
 	- Discussion
 	- Conclusion
 - Be creative!
-- [[Papers/Tell a Story]]:
+- [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Tell a Story]]:
 	- ![[Pasted image 20260224115720.png]]
 	- ![[Pasted image 20260224115912.png]]
 - **Introduction:** ^2684e7
