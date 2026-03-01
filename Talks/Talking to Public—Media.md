@@ -1,0 +1,16 @@
+- Never overestimate the interest of people for astronomy! (we are biased)
+- Be sure to know what your audience knows before engaging with them
+- Choose your words carefully
+- Give a human dimension to your science:
+	- Metaphors
+		- '1 microarcsecond correspond to viewing the shape of a golf ball at more than 8,000 km distance.'
+		- 'The energy of the new subatomic particle is equivalent to that of a baseball traveling a hundred kilometres an hour'
+		- Don't say 13.7%, say one out of seven
+	- Alternative framing
+		- '99% of young Londoners do not commit serious youth violence.'
+		- Then, 1% of young Londoners do commit serious violence
+		- Given the population of London: There are 10,000 seriously violent young people in the city!
+		- Numbers don't speak for themselves
+- Words have meaning
+	- Choose carefully your words, since the meaning can change depending on the public you are talking to
+	![[Pasted image 20260301005045.png]]
