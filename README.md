@@ -1,6 +1,6 @@
 # ESO — Scientific Writing and Communicating your Science Workshop Notes
 
-**Speaker:** Dr. Henri Boffin
+**Speaker:** Dr. Henri Boffin  
 **Dates:** February 24-25, 2026  
 **Location:** ESO Vitacura, Chile  
 
