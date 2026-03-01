@@ -4,7 +4,7 @@
 **Dates:** February 24-25, 2026  
 **Location:** ESO Vitacura, Chile  
 
-*Notes taken in Obsidian*
+*Notes taken in Obsidian*   
 *Slides also shared by Dr. Henri Boffin*
 
 ---
