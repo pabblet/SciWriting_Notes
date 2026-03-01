@@ -5,7 +5,7 @@
 **Location:** ESO Vitacura, Chile  
 
 *Notes taken in Obsidian*   
-*Slides also shared by Dr. Henri Boffin*
+*Slides shared by Dr. Henri Boffin*
 
 ---
 
