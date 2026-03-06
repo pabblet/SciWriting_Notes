@@ -5,8 +5,6 @@
 	- Discussion
 	- Conclusion
 - Be creative!
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 - [[Tell a Story]]:
 	![[Pasted image 20260228213527.png]]
@@ -17,14 +15,6 @@
 		4. Resolution: How does it help solve the problem
 	- We need to use ***we*** or ***I*** (if alone) and use the active voice
 
-=======
-- [[Papers/Tell a Story]]:
-=======
-- [[pablet/Workshops — Conferences/ESO — Scientific Writing and Communicating your Science/Papers/Tell a Story]]:
->>>>>>> origin/main
-	- ![[Pasted image 20260224115720.png]]
-	- ![[Pasted image 20260224115912.png]]
->>>>>>> origin/main
 - **Introduction:** ^2684e7
 	1. Establishing a territory
 		- Established the field of work and importance
